@@ -54,9 +54,8 @@ Tap on the detected plane to spawn the **Tic Tac Toe** game board.
 - Tap on cells to mark your move
 - Use interactive buttons for actions:
 
-![Gameplay 1](source/Img2.jpeg)  
 ![Gameplay 2](source/Img3.jpeg)
-
+![Gameplay 1](source/Img2.jpeg)  
 ---
 
 ### 5. Options Panel
