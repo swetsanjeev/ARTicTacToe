@@ -27,12 +27,13 @@ An interactive **Tic Tac Toe** game built using **Unity** and **AR Foundation**,
 ## 🚀 How to Play
 
 ### 1. Start from Main Menu
-Upon launching the game, you're presented with:
+Upon launching the game, you're greeted with a clean and simple main menu featuring three options:
 
-- ▶️ **Play** – Starts AR session  
-- ❌ **Exit** – Closes the app
-
+- ▶️ **Play** – Begins the AR session and starts plane detection  
+- 🎵 **Sound Settings** – Toggle background music and sound effects  
+- ❌ **Exit** – Closes the application gracefully
 ![Main Menu](source/Menu.jpeg)
+![Options Panel](source/option.jpeg)
 
 ---
 
@@ -64,8 +65,6 @@ Control buttons allow you to manage gameplay:
 - 🔙 **Main Menu**  
 - ➕ **Zoom In**  
 - ➖ **Zoom Out**
-
-![Options Panel](source/option.jpeg)
 
 ---
 
