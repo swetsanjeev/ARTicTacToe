@@ -2,49 +2,55 @@
 
 ![Game Icon](source/Icon.png)
 
-An interactive **Tic Tac Toe** game built using **Unity** and **AR Foundation**, bringing classic gameplay into the augmented world. Place the game board on real-world surfaces and enjoy intuitive gameplay enhanced with AR UI controls.
+An interactive **Tic Tac Toe** game built using **Unity** and **AR Foundation**, bringing classic gameplay into the augmented world. Place the game board on real-world surfaces and enjoy smooth, intuitive AR interactions.
+
+---
+
+## 🛠️ Built With
+
+![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white)
+![AR Foundation](https://img.shields.io/badge/AR-AR%20Foundation-blue)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
 
 ---
 
 ## 🎮 Features
 
-- 🔍 Plane detection with blue visual highlight
-- 🕹️ AR-enabled Tic Tac Toe gameplay
-- 📱 Interactive UI buttons: Reset, Main Menu, Zoom In/Out
-- 🖼️ Clean and intuitive design using image-based buttons
-- ⚙️ Light and smooth performance for mobile AR
+- 🔍 Plane detection with blue highlight
+- 🕹️ Classic Tic Tac Toe on a real-world AR surface
+- 📱 In-game UI buttons: Reset, Main Menu, Zoom In/Out
+- 🖼️ Clean and intuitive image-based controls
+- ⚙️ Light performance and smooth user experience
 
 ---
 
 ## 🚀 How to Play
 
 ### 1. Start from Main Menu
-Upon launching, you're presented with:
-- ▶️ **Play**
-- ❌ **Exit**
+Upon launching the game, you're presented with:
+
+- ▶️ **Play** – Starts AR session  
+- ❌ **Exit** – Closes the app
 
 ![Main Menu](source/Menu.jpeg)
 
 ---
 
 ### 2. Plane Detection
-After clicking "Play", AR plane detection begins. Detected surfaces are highlighted in **blue**:
+Once you tap **Play**, AR plane detection starts. Detected surfaces are highlighted in **blue**:
 
 ![Plane Detection](source/Img1.jpeg)
 
 ---
 
-### 3. Place Game Board
-Tap on any detected blue plane to place the Tic Tac Toe board in your environment.
+### 3. Place the Game Board
+Tap on the detected plane to spawn the **Tic Tac Toe** game board.
 
 ---
 
-### 4. Game UI and Controls
-Tap to make your moves. Use the image-based buttons to:
-- 🔄 Reset the game
-- 🔙 Return to Main Menu
-- ➕ Zoom In
-- ➖ Zoom Out
+### 4. Gameplay
+- Tap on cells to mark your move
+- Use interactive buttons for actions:
 
 ![Gameplay 1](source/Img2.jpeg)  
 ![Gameplay 2](source/Img3.jpeg)
@@ -52,15 +58,20 @@ Tap to make your moves. Use the image-based buttons to:
 ---
 
 ### 5. Options Panel
-Additional control buttons available for in-game adjustments:
+Control buttons allow you to manage gameplay:
 
-![Options Panel](source/Option.jpeg)
+- 🔄 **Reset**  
+- 🔙 **Main Menu**  
+- ➕ **Zoom In**  
+- ➖ **Zoom Out**
+
+![Options Panel](source/option.jpeg)
 
 ---
 
 ## 📽️ Demo Video
 
-▶️ **Watch the gameplay in action**:  
+▶️ **Watch the Gameplay Demo**:  
 [https://youtube.com/shorts/K7NOohydaQs?feature=share](https://youtube.com/shorts/K7NOohydaQs?feature=share)
 
 ---
